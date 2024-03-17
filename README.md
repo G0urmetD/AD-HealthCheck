@@ -16,3 +16,6 @@ The script needs to run as Administrator on the Domain Controller.
 ```PowerShell
 .\AD-HealtCheck.ps1
 ```
+# Notes
+- If bugs occur, please create an issue.
+- For further functionalities/feature requests, please create a pull request.
