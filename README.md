@@ -18,4 +18,4 @@ The script needs to run as Administrator on the Domain Controller.
 ```
 # Notes
 - If bugs occur, please create an issue.
-- For further functionalities/feature requests, please create a pull request.
+- For further functionalities/feature requests, please create an issues as enhacement
